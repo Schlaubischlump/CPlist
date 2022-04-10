@@ -6,7 +6,7 @@
 //
 
 module CPlist {
-    header "../libplist/include/plist/plist.h"
+    header "../../libplist/include/plist/plist.h"
     export *
 }
 
